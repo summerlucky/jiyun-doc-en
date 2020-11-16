@@ -1,23 +1,26 @@
-setting for ios setting
+How to config for apple ios
 ================
-一、请联系客服获取appleid 和密码
+a、download shadowrocket in appstore(you can use my id to download if you don’t want pay 2.99$)
 
-二、请在IOS系统里点设置-iTunes Store与App Store，退出你自己的账号登录我的账号后搜shadowrocket下载
-请注意，在AppStore中的搜索界面语言一定要英文才可以搜索，如果登录后发现还是中文界面，重启手机后再搜
+appleid: bxrchsr2@icloud.com
+password:Wingy@123
 
-.. image::  /images/ios-1.jpg
+b、how to change to apple id (you can ignore this step if you have shadowrocket already)
 
-三、手机APP设置步骤如下
-设置前，请先检查下系统时间是不是和北京标准时间一致
+.. image::  /images/ios-1.png
 
-设置方式一：通过订阅方式快速设置（推荐），按如下图示操作
+c、follow the picture below to set：
 
-软件打开后点击添加节点，类型选择 subscribe
+1、method of auto config (recommend)
 
 .. image::  /images/ios-2.png
 
-设置方式二：手动设置（如果通过订阅的方式设置失败，更新后无法显示服务器，请用此方法手动设置）
+click ‘+’ to add server，then choose type of subscribe,input subscribe url which send you ,then click done to finished setting,all of the server list,will auto config for you
+
+2、method of manual config (you can try this method if you fail to setup use with auto config method)
 
 .. image::  /images/ios-3.png
 
-设置完毕后点完成，返回首页连接即可
+.. image::  /images/ios-4.png
+
+
