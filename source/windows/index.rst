@@ -1,47 +1,42 @@
-windows使用教程
+how to config for windows
 ================
-一、下载客户端地址：https://wwa.lanzous.com/iFZHFgcbyxg
+software download link：：https://wwa.lanzous.com/iFZHFgcbyxg
 
-请把整个压缩包解压后放D盘根目录里打开，同时请务必确认你电脑上的系统时间是准确的
+follow picture below to config
 
-打开后如果提示无法运行或者提示需要安装.netframework,请安装下.net framework
-
-下载地址：https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-offline-installer
-
-二、设置步骤如下：
-
-设置前，请先检查下系统时间是不是和北京标准时间一致
-
-设置方式一（推荐）
-
-1、点击订阅-订阅设置
+1、 click ‘帮助’to change language to English first,
 
 .. image::  /images/windows-1.png
 
-2、在地址中填写邮件正文里的订阅地址
+2、 then quit app ,open exe v2rayN.exe again
 
 .. image::  /images/windows-2.png
 
-3、设置完毕后再次点击订阅-更新订阅
+
+3、method of auto config (recommend)
 
 .. image::  /images/windows-3.png
 
-
-设置方式二（手动设置）
-
-重要提示！！！如果订阅失败，请参照如下方法手动设置，如果订阅成功，请忽略下面的设置步骤
-
-1、选择服务器，添加vmess服务器
-
 .. image::  /images/windows-4.png
 
-2、填写发你的账号信息，按如下设置
-
-服务器和伪装域名请填写邮件里的服务器地址
-
-UUID：填邮件里的UUID
-
-端口：443
+4、click "update subscribe"
 
 .. image::  /images/windows-5.png
+
+Choose any server after update config
+
+5、method of manual config (you can try this method if you failed to setup use with auto config method)
+
+6、Click server button, choose vmess
+
+.. image::  /images/windows-6.png
+
+7 、input your account info
+
+.. image::  /images/windows-7.png
+
+8、Back to home page ,then you can open any web site
+
+.. image::  /images/windows-8.png
+
 
