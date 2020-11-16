@@ -1,4 +1,4 @@
-mac设置教程
+setting for mac
 ================
 第一步：下载安装 V2rayx
 

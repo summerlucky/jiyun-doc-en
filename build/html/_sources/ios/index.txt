@@ -1,4 +1,4 @@
-苹果ios设置教程
+setting for ios setting
 ================
 一、请联系客服获取appleid 和密码
 
