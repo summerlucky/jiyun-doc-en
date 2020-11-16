@@ -8,7 +8,8 @@ follow picture below to config
 
 .. image::  /images/windows-1.png
     :align: center
-    
+    :width: 100%
+
 2、 then quit app ,open exe v2rayN.exe again
 
 .. image::  /images/windows-2.png
