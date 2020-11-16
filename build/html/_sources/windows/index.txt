@@ -1,4 +1,4 @@
-how to config for windows
+How to config for windows
 ================
 software download link：：https://wwa.lanzous.com/iFZHFgcbyxg
 
