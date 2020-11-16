@@ -7,7 +7,8 @@ follow picture below to config
 1、 click ‘帮助’to change language to English first,
 
 .. image::  /images/windows-1.png
-
+    :align: center
+    
 2、 then quit app ,open exe v2rayN.exe again
 
 .. image::  /images/windows-2.png
