@@ -4,6 +4,7 @@ a、download shadowrocket in appstore(you can use my id to download if you don�
 
 appleid: bxrchsr2@icloud.com
 password:Wingy@1234
+
 pls login appstore only,don't login on icloud
 
 b、how to change to apple id (you can ignore this step if you have shadowrocket already)
