@@ -2,10 +2,12 @@ How to config for apple ios
 ================
 a、download shadowrocket in appstore(you can use my id to download if you don’t want pay 2.99$)
 
-appleid: bxrchsr2@icloud.com
-password:Wingy@1234
+Attentions:
 
-pls login appstore only,don't login on icloud
+1、Don't login on icloud,just appstore
+
+2、Don't enable Two-factor authentication 
+
 
 b、how to change to apple id (you can ignore this step if you have shadowrocket already)
 
