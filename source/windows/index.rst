@@ -1,6 +1,6 @@
 How to config for windows
 ================
-software download link：：https://wwa.lanzous.com/iFZHFgcbyxg
+software download link：https://github.com/jiyunnetwork/download/raw/master/v2-windows.zip
 
 follow picture below to config
 
