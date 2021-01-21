@@ -1,6 +1,6 @@
 How to config for mac
 ================
-1、Download link for app：https://github.com/jiyunnetwork/download/raw/master/V2RayX.app.zip
+1、Download link for app: https://wwa.lanzous.com/iX6Qskmwbwh
 
 .. image::  /images/mac-1.png
 
