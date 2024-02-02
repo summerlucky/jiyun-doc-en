@@ -9,7 +9,7 @@ python:
 
 dependencies:
   override:
-    - pip install -r docs/requirements.txt
+    - pip install -r source/requirements.txt
 
 docs:
   - check
