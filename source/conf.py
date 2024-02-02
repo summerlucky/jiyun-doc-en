@@ -32,6 +32,34 @@ needs_sphinx = '5.3.0'
 # Options for extensions
 import os
 import sys
+import sphinx_rtd_theme
+# conf.py
+
+# 导入 Read the Docs 主题
+import sphinx_rtd_theme
+
+# 设置使用的主题
+html_theme = 'sphinx_rtd_theme'
+
+# 设置主题选项（可选）
+html_theme_options = {
+    'canonical_url': '',
+    'analytics_id': 'UA-XXXXXXX-1',
+    'logo_only': False,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+    # 更多主题选项...
+}
+
+# 如果使用了 Read the Docs 主题，还需要添加以下配置
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx_rtd_theme',
+]
+
+# 设置主题路径（如果主题不在内置路径中）
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 sys.path.append(os.path.abspath("./_ext"))
 
