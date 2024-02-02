@@ -8,7 +8,7 @@
 
 
 # Add the following lines to your conf.py
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'classic'
 
 
 project = 'jiyun-doc-en'
