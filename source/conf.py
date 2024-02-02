@@ -6,7 +6,6 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-import sphinx_rtd_theme
 
 # Add the following lines to your conf.py
 html_theme = 'sphinx_rtd_theme'
